@@ -1,0 +1,10 @@
+C:\Users\krishna.teja.taduri\source\repos\Selenoid\Selenoid\obj\Debug\Selenoid.csprojAssemblyReference.cache
+C:\Users\krishna.teja.taduri\source\repos\Selenoid\Selenoid\obj\Debug\Selenoid.SelenoidForm.resources
+C:\Users\krishna.teja.taduri\source\repos\Selenoid\Selenoid\obj\Debug\Selenoid.Properties.Resources.resources
+C:\Users\krishna.teja.taduri\source\repos\Selenoid\Selenoid\obj\Debug\Selenoid.csproj.GenerateResource.cache
+C:\Users\krishna.teja.taduri\source\repos\Selenoid\Selenoid\obj\Debug\Selenoid.csproj.CoreCompileInputs.cache
+C:\Users\krishna.teja.taduri\source\repos\Selenoid\Selenoid\bin\Debug\Selenoid.exe.config
+C:\Users\krishna.teja.taduri\source\repos\Selenoid\Selenoid\bin\Debug\Selenoid.exe
+C:\Users\krishna.teja.taduri\source\repos\Selenoid\Selenoid\bin\Debug\Selenoid.pdb
+C:\Users\krishna.teja.taduri\source\repos\Selenoid\Selenoid\obj\Debug\Selenoid.exe
+C:\Users\krishna.teja.taduri\source\repos\Selenoid\Selenoid\obj\Debug\Selenoid.pdb
